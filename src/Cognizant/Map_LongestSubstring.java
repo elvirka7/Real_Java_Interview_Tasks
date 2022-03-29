@@ -7,6 +7,7 @@ import java.util.Map;
 
 /*
 Find the longest common substring among two strings
+SOLUTION BY MANAS
  */
 public class Map_LongestSubstring {
         public static void main(String[] args) {
